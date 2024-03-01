@@ -13,9 +13,9 @@
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <!-- https://mvnrepository.com/artifact/com.diogonunes/JColor -->
     <dependencies>
         <dependency>
+            <!-- https://mvnrepository.com/artifact/com.diogonunes/JColor -->
             <groupId>com.diogonunes</groupId>
             <artifactId>JColor</artifactId>
             <version>5.0.1</version>
