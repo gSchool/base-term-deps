@@ -2,6 +2,7 @@ package com.galvanize;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Basic basic = new Basic();
+        System.out.println(basic.blue("Hello world!"));
     }
 }
